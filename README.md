@@ -1,2 +1,23 @@
-# connectFour
-This project is a web-based version of Connect Four, created as a class assignment. Includes a dynamic game board with HTML and CSS for a clear interface and JavaScript for game logic. Made for two players, enabling them to alternate turns dropping discs into columns. It also automatically checks for wins horizontally, vertically, and diagonally. 
+# Connect Four Game
+
+This project is a web-based implementation of the classic Connect Four game, developed as part of a class assignment.
+
+## Features
+- **Dynamic Game Board**: Built with HTML and styled with CSS for a clean and engaging user interface.
+- **Interactive Gameplay**: JavaScript-powered logic for two players to take turns dropping discs into columns.
+- **Automatic Win Checks**: Automatically checks for horizontal, vertical, and diagonal wins.
+- **Visual Indicators**: Displays player turns and win messages.
+
+## Technologies Used
+- **HTML**: Structure of the game board and elements.
+- **CSS**: Styling to create an appealing and user-friendly design.
+- **JavaScript**: Game logic, including player turns and win conditions.
+
+## Files
+- **index.html**: Sets up the structure of the webpage and includes links to external stylesheets and scripts.
+- **connectFour.css**: Defines the styling for the game, including layout, colors, and player indicators.
+- **connectFour.js**: Contains the game logic, functions for player moves, win checks, and updating the game board.
+
+## Getting Started
+1. Clone the repository.
+2. Open `index.html` in your web browser.
