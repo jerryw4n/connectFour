@@ -8,7 +8,7 @@ This project is a web-based implementation of the classic Connect Four game, dev
 - **Automatic Win Checks**: Automatically checks for horizontal, vertical, and diagonal wins.
 - **Visual Indicators**: Displays player turns and win messages.
 
-## Technologies Used
+## Skills
 - **HTML**: Structure of the game board and elements.
 - **CSS**: Styling to create an appealing and user-friendly design.
 - **JavaScript**: Game logic, including player turns and win conditions.
