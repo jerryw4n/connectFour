@@ -18,6 +18,5 @@ This project is a web-based implementation of the classic Connect Four game, dev
 - **connectFour.css**: Defines the styling for the game, including layout, colors, and player indicators.
 - **connectFour.js**: Contains the game logic, functions for player moves, win checks, and updating the game board.
 
-## Getting Started
-1. Clone the repository.
-2. Open `index.html` in your web browser.
+## Website
+https://jerryw4n.github.io/connectFour/
